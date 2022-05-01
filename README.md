@@ -1,6 +1,6 @@
 # redis-sorted-set-practice
 
-## 기프티콘 선착순 이벤트 (1초마다 N명한테 순번 표출)
+## 기프티콘 선착순 이벤트 (1초마다 N명한테 대기열 표출)
 ### 테스트 목록
 
 ![image](https://user-images.githubusercontent.com/76584547/166141916-32a4eaf5-fb94-42e5-85ee-803caf2aa71b.png)
