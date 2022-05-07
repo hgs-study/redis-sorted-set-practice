@@ -31,3 +31,6 @@
 ### 참고
 + http://redisgate.kr/redis/command/zrank.php
 + http://redisgate.kr/redis/command/zrange.php
+
+### 블로그 정리
++ https://velog.io/@hgs-study/redis-sorted-set
